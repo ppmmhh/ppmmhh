@@ -1,9 +1,11 @@
 <h1 align="center">Helloooo, I'm Pia</h1>
 <h3 align="center">a full stack developer with background in content strategy and ux/ui design.</h3>
 
+- ✨ I’m currently learning at the **UpLeveled** Full Stack Development Bootcamp.
+- 
 - ✨ I’m currently working on **draussen**, a full stack project offering outdoor community experiences.
 
-- ✨ I’m currently learning at the **UpLeveled** Full Stack Development Bootcamp.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
