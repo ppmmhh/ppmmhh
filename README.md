@@ -1,6 +1,10 @@
 <h1 align="center">Helllllllo, I'm Pia</h1>
 <h3 align="center">a full stack developer with background in content design and strategy.</h3>
 
+- 🔭 I’m currently working on **draussen, a full stack project offering outdoor community experiences.**
+
+- 🌱 I’m currently learning **at the UpLeveled Full Stack Development Bootcamp.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piahoelzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piahoelzl" height="30" width="40" /></a>
