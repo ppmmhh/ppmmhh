@@ -2,7 +2,7 @@
 <h3 align="center">a full stack developer with background in content strategy and ux/ui design.</h3>
 
 - ✨ I’m passionate about good design and its accessibility.
-- 
+  
 - ✨ I recently graduated the **UpLeveled** Full Stack Development Bootcamp.
   
 - ✨ I’m currently working on **draussen**, a full stack project offering outdoor community experiences.
