@@ -5,7 +5,8 @@
   
 - ✨ I recently graduated the **UpLeveled** Full Stack Development Bootcamp.
   
-- ✨ I’m currently working on **draussen**, a full stack project offering outdoor community experiences.
+- ✨ I’m currently working on **draussen**, a full stack project offering outdoor community experiences and an artist portfolio playing around with two.js .
+
 
 
 
